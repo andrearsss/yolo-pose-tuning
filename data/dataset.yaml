@@ -1,0 +1,11 @@
+
+path: .\split # dataset root dir
+train: train 
+val: val 
+test: test
+
+kpt_shape: [14, 3] 
+flip_idx: [5, 4, 3, 2, 1, 0, 11, 10, 9, 8, 7, 6, 12, 13]
+
+names:
+    0: person

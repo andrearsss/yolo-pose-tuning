@@ -1,0 +1,11 @@
+__pycache__/
+data/split/
+presentazione/
+
+runs_nano/pose/*
+!runs_nano/pose/train5/
+!runs_nano/pose/train10/
+!runs_nano/pose/train15/
+
+runs_small/pose/*
+!runs_small/pose/train5/
